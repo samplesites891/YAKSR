@@ -1,16 +1,3 @@
-git clone https://github.com/ricardojrdez/anti-analysis-tricks
-git clone https://github.com/nsmfoo/antivmdetection
-git clone https://github.com/AlicanAkyol/sems
-git clone https://github.com/stufus/certerator
 git clone https://github.com/Sogeti-Pentest/Encrypter-Metasploit
-git clone https://github.com/google/sandbox-attacksurface-analysis-tools
-git clone https://github.com/Arvanaghi/CheckPlease
-git clone https://github.com/secretsquirrel/SigThief
 git clone https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL
-git clone https://github.com/Genetic-Malware/Ebowla
-git clone https://github.com/mstefanowich/FileSignatureHijack
-git clone https://github.com/zoro25/SSL_Cert_Grabber
-git clone https://github.com/Mr-Un1k0d3r/Windows-SignedBinary
-git clone https://github.com/cobbr/PSAmsi/wiki/Conducting-AMSI-Scans
-git clone https://github.com/LordNoteworthy/al-khaser
-git clone https://github.com/GreatSCT/GreatSCT
+
